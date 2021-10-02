@@ -1,3 +1,9 @@
+//This Problem Is very simple
+//You have to Capitalize first letter of word
+//You can access first letter with str[0] in c++
+//Then use toupper to make it uppercase
+
+
 #include<bits/stdc++.h>
 using namespace std;
 main(){
